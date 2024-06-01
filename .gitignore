@@ -1,0 +1,23 @@
+# General ignores
+Recordings/
+Temp/
+Library/
+obj/
+Apk/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.pdb
+*.mdb
+*.tmp
+*.log
+*.apk
+*.aab
+*.unitypackage
+
+# Do not ignore .unitypackage files inside UnityPackage folder
+!UnityPackage/
+!UnityPackage/*.unitypackage
