@@ -66,22 +66,4 @@ To use the `RadialGridLayoutGroup` in your Unity project:
 2. Customize the serialized fields in the Unity inspector to achieve the desired radial layout.
 3. Add child elements to the `GameObject` and observe the radial arrangement.
 
-## Example
-
-```csharp
-using UnityEngine;
-using UnityEngine.UI;
-
-public class Example : MonoBehaviour
-{
-    public RadialGridLayoutGroup radialLayoutGroup;
-
-    void Start()
-    {
-        // Configure the radial layout group settings here if needed
-        radialLayoutGroup.m_RadialShape = RadialGridLayoutGroup.RadialShape.Spiral;
-        radialLayoutGroup.m_MinAngle = 0;
-        radialLayoutGroup.m_MaxAngle = 360;
-        radialLayoutGroup.m_StartAngle = 0;
-    }
-}
+Assets/Textures/Inspector_Screenshot.png
