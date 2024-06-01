@@ -66,4 +66,5 @@ To use the `RadialGridLayoutGroup` in your Unity project:
 2. Customize the serialized fields in the Unity inspector to achieve the desired radial layout.
 3. Add child elements to the `GameObject` and observe the radial arrangement.
 
-![Radial Grid Layout Inspector]<img src="Assets/Textures/Inspector_Screenshot.png" alt="Radial Grid Layout Inspector" width="300" height="300">
+[Radial Grid Layout Inspector]<img src="Assets/Textures/Inspector_Screenshot.png" alt="Radial Grid Layout Inspector" width="300" height="300">
+<img src="Assets/Textures/Screen_Screenshot.png" alt="Radial Grid Layout samples" width="300" height="300">
